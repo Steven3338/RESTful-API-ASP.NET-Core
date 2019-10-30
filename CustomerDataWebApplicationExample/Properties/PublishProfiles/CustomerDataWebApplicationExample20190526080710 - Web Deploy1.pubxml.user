@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWWD7kUfoc0KbVXX2TyE4ngAAAAACAAAAAAAQZgAAAAEAACAAAACrvb/xp24ISFNtyd+5jdNkZ6zirxi0tHkB0+sK9dWWFQAAAAAOgAAAAAIAACAAAACt7YiOw99X96/MUXvPlWOSJMtzDFGsVabNvvyyNQ0ZvIAAAAD4VOpSQgyNyU/xotQPYlXlKqGejWO8CP7JdqXVkXqidE8LmX48pK8HjAd8nQcsjFPieLbEK5UbB14xRmbaVmJQT8WBlTHsmwjTQbJComZ1PBTS7o0Z4Hgndn4c8ghQvWh1dxgKisan5TAKWy1af/uh3XE+x5T/yttRZYstb6R0b0AAAADgAUfp7A75lxH9461qesUR/PsJMQgt/3vUMSXWR0qRab1sL0NuUPcjYfOawYd/aucyyMApB7iriObBCotmLOLg</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PeopleConnection">
+      <Value>Data Source=tcp:customerdatawebapplicationexample20190526080710dbserver.database.windows.net,1433%3bInitial Catalog=UserDataWebApplicationExample20190526080710_db%3bUser Id=managerofdatabase%40customerdatawebapplicationexample20190526080710dbserver%3bPassword=NeedAJob40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="PeopleInformation.Data.PeopleInformationContext">
+      <Value>Data Source=tcp:customerdatawebapplicationexample20190526080710dbserver.database.windows.net,1433%3bInitial Catalog=UserDataWebApplicationExample20190526080710_db%3bUser Id=managerofdatabase%40customerdatawebapplicationexample20190526080710dbserver%3bPassword=NeedAJob40</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

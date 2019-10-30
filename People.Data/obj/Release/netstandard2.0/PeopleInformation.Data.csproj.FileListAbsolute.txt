@@ -1,0 +1,12 @@
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\bin\Release\netstandard2.0\PeopleInformation.Data.deps.json
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\bin\Release\netstandard2.0\PeopleInformation.Data.dll
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\bin\Release\netstandard2.0\PeopleInformation.Data.pdb
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\bin\Release\netstandard2.0\PeopleInformation.Domain.dll
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\bin\Release\netstandard2.0\PeopleInformation.Domain.pdb
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.csprojAssemblyReference.cache
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.AssemblyInfo.cs
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.csproj.CopyComplete
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.dll
+C:\Users\steve\Documents\CustomerExFusion\CustomerDataExample\People.Data\obj\Release\netstandard2.0\PeopleInformation.Data.pdb
